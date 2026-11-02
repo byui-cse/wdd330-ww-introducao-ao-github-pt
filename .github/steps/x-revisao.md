@@ -23,6 +23,6 @@ Se quiser criar um README de perfil, siga as instruções rápidas abaixo ou as 
 Confira estes recursos para aprender mais ou participar:
 
 - Você é estudante? Conheça o [Student Developer Pack](https://education.github.com/pack) ("pacote de ferramentas gratuitas para estudantes").
-- [Faça outro exercício do GitHub Skills](https://learn.github.com/skills) (em inglês).
+- [Faça outro exercício do GitHub Skills](https://learn.github.com/skills) (Conteúdo em inglês).
 - [Leia a documentação de primeiros passos do GitHub](https://docs.github.com/pt/get-started).
 - Para encontrar projetos para contribuir, visite o [GitHub Explore](https://github.com/explore).

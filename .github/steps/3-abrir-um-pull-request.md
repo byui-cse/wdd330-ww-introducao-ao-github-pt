@@ -8,9 +8,7 @@ Agora que você fez uma alteração no projeto e criou um commit, é hora de com
 
 ### :keyboard: Atividade: Criar um Pull Request
 
-Depois do seu commit, talvez você tenha visto uma mensagem avisando sobre o envio (push) recente para o seu branch, com um botão **Compare & pull request** (Comparar e criar pull request).
-
-![Mensagem de envio recente com o botão Compare & pull request](../images/compare-pull-request-button.png)
+Depois do seu commit, talvez você tenha visto uma faixa amarela no topo da aba **< > Code** avisando sobre o envio (push) recente para o seu branch, com um botão verde **Compare & pull request** (Comparar e criar pull request).
 
 Para criar o pull request automaticamente, clique no botão **Compare & pull request** e pule para o item 5 abaixo. Se preferir, pratique criando o pull request manualmente, seguindo os 4 primeiros itens.
 
@@ -21,15 +19,17 @@ Para criar o pull request automaticamente, clique no botão **Compare & pull req
    - **base:** `main` (branch que vai receber as alterações)
    - **compare:** `primeiro-branch` (branch com as suas alterações)
 
-   ![Seleção dos branches base: main e compare: primeiro-branch](../images/branch-selection-comparison.png)
+   Os menus ficam lado a lado, com uma seta entre eles: **base: main ← compare: primeiro-branch**.
 
 4. Clique em **Create pull request** (Criar pull request).
 
 5. Digite um título para o seu pull request. Por padrão, o título é a sua mensagem de commit. Neste exercício, altere o campo para `Adicionar meu primeiro arquivo`.
 
-6. O próximo campo serve para você escrever uma **descrição** das alterações que fez. Escreva uma descrição curta do que você fez até agora. Para lembrar: você criou um novo branch, criou um arquivo e fez um commit.
+6. O próximo campo serve para você escrever uma **descrição** das alterações que fez. Escreva uma descrição curta do que você fez até agora. Para lembrar: você criou um novo branch, criou um arquivo e fez um commit. Por exemplo:
 
-   ![Formulário do pull request com título e descrição preenchidos](../images/create-pull-request-form.png)
+   ```
+   Criei um novo branch, criei um arquivo e fiz um commit!
+   ```
 
 7. Clique em **Create pull request** (Criar pull request).
 
