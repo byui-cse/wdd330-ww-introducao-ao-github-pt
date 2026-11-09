@@ -5,7 +5,9 @@ _Boas-vindas ao exercício "Introdução ao GitHub"! :wave:_
 **O que é o GitHub?** O GitHub é uma plataforma de colaboração que usa o _[Git](https://docs.github.com/pt/get-started/learning-about-github/github-glossary#git)_ para controlar as versões dos arquivos.
 O GitHub é um lugar muito usado para compartilhar software de [código aberto](https://docs.github.com/pt/get-started/learning-about-github/github-glossary#open-source) e contribuir com ele.
 
-:tv: [Vídeo: What is GitHub? ("O que é o GitHub?")](https://www.youtube.com/watch?v=pBy1zgt0XPc) &ndash; GitHub (Conteúdo em inglês)
+[Vídeo: What is GitHub? ("O que é o GitHub?")](https://www.youtube.com/watch?v=pBy1zgt0XPc&cc_load_policy=1&cc_lang_pref=pt) &ndash; GitHub (conteúdo em inglês). Para ver a legenda em português, clique em ⚙️ **Configurações** > **Legendas** > **Traduzir automaticamente** > **Português**.
+
+Opção em português: [Vídeo: O que são Git e GitHub?](https://www.youtube.com/watch?v=P4BNi_yPehc) &ndash; Alura
 
 **O que é um repositório?** Um _[repositório](https://docs.github.com/pt/get-started/learning-about-github/github-glossary#repository)_ é um projeto que contém arquivos e pastas.
 O repositório guarda o histórico de versões desses arquivos e pastas. Para saber mais, consulte
@@ -24,15 +26,7 @@ Para saber mais, consulte "[Sobre branches](https://docs.github.com/pt/pull-requ
 é basicamente uma seção "Sobre mim" no seu perfil do GitHub, onde você pode compartilhar informações sobre você com a comunidade do GitHub.com.
 O GitHub mostra o README do seu perfil no topo da sua página de perfil. Para saber mais, consulte "[Gerenciar o README do seu perfil](https://docs.github.com/pt/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)".
 
-Por exemplo, um README de perfil pode ter este conteúdo:
-
-```markdown
-### Olá 👋
-
-- 🔭 Estou trabalhando em algo legal!
-- 🌱 Estou aprendendo com a ajuda do [GitHub Skills](https://skills.github.com)
-- 💬 Pergunte-me sobre o GitHub
-```
+![Exemplo de README de perfil no GitHub](https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/example-profile-readme.png)
 
 ### :keyboard: Atividade: Seu Primeiro Branch
 
@@ -40,13 +34,19 @@ Por exemplo, um README de perfil pode ter este conteúdo:
 
 2. Clique na aba **< > Code** (Código) no menu do topo do seu repositório.
 
+   ![Aba Code destacada no menu do repositório](https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/code-tab-highlight.png)
+
 3. Clique no menu suspenso do branch **main**, que fica logo acima da lista de arquivos, à esquerda.
+
+   <img width="300" alt="Menu suspenso de seleção de branch destacado" src="https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/branch-selection-dropdown.png">
 
 4. Na caixa de texto **Find or create a branch...** (Encontrar ou criar um branch...), digite `primeiro-branch`.
 
    > **Observação:** esse nome é verificado para você seguir para o próximo passo. :wink:
 
 5. Clique no texto **Create branch: `primeiro-branch` from 'main'** (Criar branch `primeiro-branch` a partir do `main`) para criar o seu branch. Essa opção aparece logo abaixo da caixa de texto.
+
+   <img width="300" alt="Opção Create branch: primeiro-branch from 'main' destacada" src="https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/create-branch-prompt.png">
 
    - O GitHub muda automaticamente para o branch que você acabou de criar.
    - O menu suspenso que mostrava **main** agora mostra o nome do seu novo branch.

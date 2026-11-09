@@ -10,6 +10,8 @@ Agora que você fez uma alteração no projeto e criou um commit, é hora de com
 
 Depois do seu commit, talvez você tenha visto uma faixa amarela no topo da aba **< > Code** avisando sobre o envio (push) recente para o seu branch, com um botão verde **Compare & pull request** (Comparar e criar pull request).
 
+![Mensagem de envio recente com o botão Compare & pull request](https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/compare-pull-request-button.png)
+
 Para criar o pull request automaticamente, clique no botão **Compare & pull request** e pule para o item 5 abaixo. Se preferir, pratique criando o pull request manualmente, seguindo os 4 primeiros itens.
 
 1. No menu do topo do seu repositório, clique na aba **Pull requests**.
@@ -19,7 +21,7 @@ Para criar o pull request automaticamente, clique no botão **Compare & pull req
    - **base:** `main` (branch que vai receber as alterações)
    - **compare:** `primeiro-branch` (branch com as suas alterações)
 
-   Os menus ficam lado a lado, com uma seta entre eles: **base: main ← compare: primeiro-branch**.
+   ![Seleção dos branches base: main e compare: primeiro-branch](https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/branch-selection-comparison.png)
 
 4. Clique em **Create pull request** (Criar pull request).
 
@@ -30,6 +32,8 @@ Para criar o pull request automaticamente, clique no botão **Compare & pull req
    ```
    Criei um novo branch, criei um arquivo e fiz um commit!
    ```
+
+   ![Formulário do pull request com título e descrição preenchidos](https://raw.githubusercontent.com/byui-cse/wdd330-ww-introducao-ao-github/main/.github/images/create-pull-request-form.png)
 
 7. Clique em **Create pull request** (Criar pull request).
 

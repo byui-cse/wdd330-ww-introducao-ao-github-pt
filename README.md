@@ -44,4 +44,4 @@ Se o exercício não ficar pronto em 20 segundos, confira a aba [Actions](../../
 
 ---
 
-Traduzido e adaptado pela BYU-Idaho a partir do exercício [Introduction to GitHub](https://github.com/skills/introduction-to-github) (Conteúdo em inglês) &copy; GitHub, sob a [Licença MIT](LICENSE-GITHUB) &bull; [Código de Conduta](https://www.contributor-covenant.org/pt-br/version/2/1/code_of_conduct/)
+Traduzido e adaptado pela BYU-Idaho a partir do exercício [Introduction to GitHub](https://github.com/skills/introduction-to-github) (conteúdo em inglês) &copy; GitHub, sob a [Licença MIT](LICENSE-GITHUB) &bull; [Código de Conduta](https://www.contributor-covenant.org/pt-br/version/2/1/code_of_conduct/)
